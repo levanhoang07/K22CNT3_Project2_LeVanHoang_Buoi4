@@ -42,5 +42,15 @@ namespace K22CNT3_LeVanHoang_2210900024_Project2.Bussiness
         {
             return Items.Sum(x => x.SoLuongMua * x.DonGiaMua);
         }
+
+        // cập nhật giỏ hàng (Shopping Cart)
+        public void UpdateFromCart(int id, int qty)
+        {
+            var existingItem = Items.FirstOrDefault(x => x.ID == id);
+            if (existingItem != null)
+            {
+                existingItem.SoLuongMua = qty;
+            }
+        } 
     }
 }

@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvhcart\\thongtinthanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvhcart\\thongtinthanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvhcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvhcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\bussiness\\lvh_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\bussiness\\lvh_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|c:\\project2\\aspnet\\k22cnt3-levanhoang-2210900024-project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvhcart\\thongtinthanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvhcart\\thongtinthanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\controllers\\lvhcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\controllers\\lvhcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\controllers\\lvh_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\controllers\\lvh_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvhcart\\camon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvhcart\\camon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\models\\lvh_cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,32 +51,8 @@
       "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\models\\lvh_model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\bussiness\\lvh_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\bussiness\\lvh_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\controllers\\lvh_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\controllers\\lvh_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\controllers\\lvhcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\controllers\\lvhcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvh_san_pham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|c:\\project2\\aspnet\\k22cnt3-levanhoang-2210900024-project2\\k22cnt3-levanhoang-2210900024-project2\\views\\lvhcart\\camon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB4E5B8A-7297-4452-8798-E991348E49FC}|K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2.csproj|solutionrelative:k22cnt3-levanhoang-2210900024-project2\\views\\lvhcart\\camon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,70 +62,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Index.cshtml",
-              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Index.cshtml",
-              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Index.cshtml",
-              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T01:49:43.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LVH_Model.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_Model.edmx",
-              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_Model.edmx",
-              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_Model.edmx [Diagram1]",
-              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_Model.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-11T18:52:37.461Z",
-              "EditorCaption": " [Diagram1]"
+              "Title": "LVHCartController.cs",
+              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVHCartController.cs",
+              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVHCartController.cs",
+              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVHCartController.cs",
+              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVHCartController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAIcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:03:16.251Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LVH_CartItem.cs",
-              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_CartItem.cs",
-              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_CartItem.cs",
-              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_CartItem.cs",
-              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T02:01:23.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T18:54:33.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ThongTinThanhToan.cshtml",
               "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVHCart\\ThongTinThanhToan.cshtml",
               "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVHCart\\ThongTinThanhToan.cshtml",
               "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVHCart\\ThongTinThanhToan.cshtml",
               "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVHCart\\ThongTinThanhToan.cshtml",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAK0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-12T02:16:41.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LVH_ShoppingCart.cs",
+              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Bussiness\\LVH_ShoppingCart.cs",
+              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Bussiness\\LVH_ShoppingCart.cs",
+              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Bussiness\\LVH_ShoppingCart.cs",
+              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Bussiness\\LVH_ShoppingCart.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAawDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:58:28.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Edit.cshtml",
+              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Edit.cshtml",
+              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T01:50:14.703Z",
               "EditorCaption": ""
             },
             {
@@ -136,53 +124,14 @@
               "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVHCart\\Index.cshtml",
               "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVHCart\\Index.cshtml",
               "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVHCart\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-12T02:13:12.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LVH_ShoppingCart.cs",
-              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Bussiness\\LVH_ShoppingCart.cs",
-              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Bussiness\\LVH_ShoppingCart.cs",
-              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Bussiness\\LVH_ShoppingCart.cs",
-              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Bussiness\\LVH_ShoppingCart.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T01:58:28.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LVH_SAN_PHAMController.cs",
-              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVH_SAN_PHAMController.cs",
-              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVH_SAN_PHAMController.cs",
-              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVH_SAN_PHAMController.cs",
-              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVH_SAN_PHAMController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAA8wHcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T01:47:01.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LVHCartController.cs",
-              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVHCartController.cs",
-              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVHCartController.cs",
-              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVHCartController.cs",
-              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVHCartController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwGcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T02:03:16.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Details.cshtml",
               "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Details.cshtml",
@@ -195,33 +144,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Edit.cshtml",
-              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Edit.cshtml",
-              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Edit.cshtml",
-              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T01:50:14.703Z",
+              "DocumentIndex": 6,
+              "Title": "LVH_SAN_PHAMController.cs",
+              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVH_SAN_PHAMController.cs",
+              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVH_SAN_PHAMController.cs",
+              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVH_SAN_PHAMController.cs",
+              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Controllers\\LVH_SAN_PHAMController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAmwHcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:47:01.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Delete.cshtml",
-              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Delete.cshtml",
-              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Delete.cshtml",
-              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Index.cshtml",
+              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Index.cshtml",
+              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T01:52:09.784Z",
+              "WhenOpened": "2024-11-12T01:49:43.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "CamOn.cshtml",
               "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVHCart\\CamOn.cshtml",
               "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVHCart\\CamOn.cshtml",
@@ -231,6 +180,53 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-12T02:22:18.822Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T18:54:33.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LVH_CartItem.cs",
+              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_CartItem.cs",
+              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_CartItem.cs",
+              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_CartItem.cs",
+              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:01:23.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LVH_Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_Model.edmx",
+              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_Model.edmx",
+              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_Model.edmx [Diagram1]",
+              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Models\\LVH_Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-11T18:52:37.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Delete.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Delete.cshtml",
+              "ToolTip": "C:\\PROJECT2\\ASPNET\\K22CNT3-LeVanHoang-2210900024-Project2\\K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Delete.cshtml",
+              "RelativeToolTip": "K22CNT3-LeVanHoang-2210900024-Project2\\Views\\LVH_SAN_PHAM\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T01:52:09.784Z"
             }
           ]
         }

@@ -110,6 +110,36 @@ namespace K22CNT3_LeVanHoang_2210900024_Project2.Controllers
         {
             return View();
         }
+        // Cập nhật giỏ hàng
+        public ActionResult UpdateFromCart(FormCollection form)
+        {
+            var cart = GetCart();
+            var ids = form["ID"].Split(',');
+            var qtys = form["SoLuongMua"].Split(',');
+            for (int i = 0; i < ids.Length; i++)
+            {
+                int id = int.Parse(ids[i]);
+                int qty = int.Parse(qtys[i]);
+                cart.UpdateFromCart(id, qty);
+            }
+            return RedirectToAction("Index");
+        }
+        // Cap nhat item in cart
+        public ActionResult UpdateItemCart(int id, int qty)
+        {
+            var cart = GetCart();
+            cart.UpdateFromCart(id, qty);
+            return RedirectToAction("Index");
+        }
+
+        // Xoa san pham trong gio hang
+        public ActionResult DeleteItemCart(int id)
+        {
+            var cart = GetCart();
+            cart.RemoveCartItem(id);
+            return RedirectToAction("Index");
+        }
+
 
     }
 }
